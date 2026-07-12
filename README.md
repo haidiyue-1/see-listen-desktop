@@ -249,7 +249,7 @@ see-listen-desktop/
 
 ### 🎨 资源致谢
 
-- **爱弥斯 GIF 动画** — 来自 B 站用户 [https://space.bilibili.com/486401719](https://space.bilibili.com/486401719) 某期视频附带的夸克文件
+- **爱弥斯 GIF 动画** — 来自 B 站用户 [https://space.bilibili.com/486401719](https://space.bilibili.com/486401719) 的视频 [BV13PFyzbEYg](https://www.bilibili.com/video/BV13PFyzbEYg/) 附带的夸克文件
 
 ### 🛠️ 开源项目
 
