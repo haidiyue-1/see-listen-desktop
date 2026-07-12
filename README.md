@@ -232,6 +232,32 @@ see-listen-desktop/
 
 ---
 
+## 🙏 致谢 / Acknowledgements
+
+本项目的诞生离不开以下工具与社区的支持，在此致以诚挚的感谢。
+
+### 🤖 AI 协作
+
+本项目全程由 AI 辅助编写，感谢以下模型的协作与贡献：
+
+| 模型 | 职责 |
+|------|------|
+| **Gemini 3.5 Flash** | 快速迭代、功能原型、代码补全 |
+| **Gemini 2.5 Pro** | 架构设计、复杂逻辑推理 |
+| **Claude Sonnet 4.6** | 代码审查、逻辑优化、文档撰写 |
+| **GPT-OSS 120B** | 功能探索与多方案评估 |
+
+### 🎨 资源致谢
+
+- **爱弥斯 GIF 动画** — 由 B 站用户 [@haidiyue](https://space.bilibili.com/486401719) 提供，感谢其创作与分享的可爱桌宠形象
+
+### 🛠️ 开源项目
+
+- **[LX Music Desktop](https://github.com/lyswhut/lx-music-desktop)** — 本项目所依托的本地音乐播放器，感谢 lyswhut 及所有贡献者
+- **[GD Studio Music API](https://music.gdstudio.xyz/)** — 提供多平台音乐搜索与直链解析服务
+
+---
+
 ## 📄 License
 
 MIT © 2025
