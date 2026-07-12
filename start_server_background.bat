@@ -1,3 +1,3 @@
 @echo off
-cd /d "E:\lx-music-web"
-start /b D:\node\node.exe server.js
+cd /d "%~dp0"
+start /b node server.js
