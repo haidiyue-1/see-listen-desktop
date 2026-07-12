@@ -31,7 +31,7 @@
 
 ## 📸 预览
 
-> 部署完成后可在此处添加截图
+![See-Listen-Desktop 预览](preview.png)
 
 ---
 
