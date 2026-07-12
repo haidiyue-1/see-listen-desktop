@@ -1,0 +1,10 @@
+{
+  "name": "lx-music-web",
+  "version": "1.0.0",
+  "description": "Web bridge for LX Music Desktop Player Status and Control",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}

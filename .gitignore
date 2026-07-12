@@ -1,0 +1,28 @@
+# ── Node.js ──────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Runtime data (generated at startup, not to be versioned) ──
+lx_stats.json
+visitor_queue.json
+request_history.json
+
+# ── Temp / build artifacts ────────────────────────────
+*.vbs
+run_node.vbs
+temp_run.vbs
+query
+
+# ── Personal / sensitive ──────────────────────────────
+.env
+.env.*
+
+# ── Backup folders ────────────────────────────────────
+backup_v*/
+
+# ── OS ───────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+Desktop.ini
