@@ -249,7 +249,7 @@ see-listen-desktop/
 
 ### 🎨 资源致谢
 
-- **爱弥斯 GIF 动画** — 由 B 站用户 [@haidiyue](https://space.bilibili.com/486401719) 提供，感谢其创作与分享的可爱桌宠形象
+- **爱弥斯 GIF 动画** — 来自 B 站用户 [https://space.bilibili.com/486401719](https://space.bilibili.com/486401719) 某期视频附带的夸克文件
 
 ### 🛠️ 开源项目
 
